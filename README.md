@@ -91,16 +91,4 @@ Make your changes and commit ✨
 
 Submit a pull request 📩
 
-📄 License
 
-This project is licensed under the MIT License.
-
-📞 Contact
-
-For questions or suggestions, reach out via:
-
-Email: your-email@example.com
-
-GitHub Issues: Open an issue
-
-💡 Star this repo if you found it helpful! ⭐ Happy tracking!
