@@ -18,26 +18,6 @@ The Attendance Tracker is a simple yet powerful web-based tool designed for stud
 
 📂 Export & Backup Data – Save attendance records as CSV or PDF files (Future Feature).
 
-🚀 How to Use
-
-1️⃣ Installation
-
-Clone the Repository
-
- git clone https://github.com/your-username/attendance-tracker.git
- cd attendance-tracker
-
-Install Dependencies (if applicable)
-
- npm install  # For React-based projects
-
-2️⃣ Usage
-
-Start the Application
-
- npm start  # For React-based projects
-
-OR Open index.html in your browser (for a static project).
 
 3️⃣ Adding a Class
 
